@@ -57,6 +57,19 @@ nav {
   transform: translateY(-0.25em);
   box-shadow: 0px 0px 5px #ffffff;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
 .subcontainer1 {
   margin-top: 100px;
   display: flex;
@@ -215,4 +228,12 @@ nav {
 }
 .contacts {
   list-style-type: none;
+}
+.tailwind{
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.Tailwind-Container{
+  height: 90rem;
 }
