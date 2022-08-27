@@ -25,6 +25,9 @@ body {
 .container1 {
   padding: 0 10%;
 }
+/* ------------------------------ */
+/* ---------- NAVBAR ------------ */
+/* ------------------------------ */
 nav {
   padding: 10px;
   margin-top: 30px;
@@ -49,7 +52,6 @@ nav {
   border-radius: 10px;
   color: #ffffff;
   text-shadow: 1px 1px 2px #051c34;
-  /* box-shadow: 0px 0px 7px #b60100; */
 }
 .list-item:hover {
   background: #b60100;
@@ -57,17 +59,6 @@ nav {
   transform: translateY(-0.25em);
   box-shadow: 0px 0px 5px #ffffff;
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 .subcontainer1 {
@@ -99,6 +90,9 @@ nav {
 .img1 img {
   width: 380px;
 }
+/* ------------------------------ */
+/* ---------- PROJECT ------------ */
+/* ------------------------------ */
 #subcontainer3 {
   margin-top: 100px;
   background: linear-gradient(to right, #232526, #414345);
@@ -118,6 +112,9 @@ nav {
   color: #ffffff;
   text-shadow: 2px 2px 4px #051c34;
 }
+/* ------------------------------ */
+/* ---------- Cards of projects ------------ */
+/* ------------------------------ */
 .card {
   display: flex;
   justify-content: space-between;
@@ -161,6 +158,9 @@ nav {
   box-shadow: 0px 0px 5px #ffffff;
   transform: translateY(-0.25em);
 }
+/* ------------------------------ */
+/* ---------- ABOUT SECTION ------------ */
+/* ------------------------------ */
 #subcontainer4 {
   background: linear-gradient(to left, #232526, #414345);
   margin-top: 100px;
@@ -188,6 +188,9 @@ nav {
   line-height: 30px;
   text-shadow: 2px 2px 4px #051c34;
 }
+/* ------------------------------ */
+/* ---------- FOOTER ------------ */
+/* ------------------------------ */
 #subcontainer5 {
   background: url(./Assets/7082673_23964.jpg);
   height: 250px;
@@ -229,6 +232,9 @@ nav {
 .contacts {
   list-style-type: none;
 }
+/* ------------------------------ */
+/* ---------- TAILWIND CONTAINER ------------ */
+/* ------------------------------ */
 .tailwind{
   display: flex;
   flex-wrap: wrap;
